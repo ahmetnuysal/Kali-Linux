@@ -46,4 +46,4 @@
 
 **unzip** -> belirtilen dosyayı zipten çıkartır
 
-** ./ ** -> belirtilen setup'ı kurar
+**./** -> belirtilen setup'ı kurar
