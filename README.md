@@ -48,4 +48,4 @@
 
 * **./** -> belirtilen setup'ı kurar
 
-* **git clone https://github.com/...** belirtilen linkteki dosyayı kali içine indirir
+* **git clone https://github.com/...** -> belirtilen linkteki dosyayı kali içine indirir
