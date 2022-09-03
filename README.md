@@ -49,3 +49,5 @@
 * **./** -> belirtilen setup'ı kurar
 
 * **git clone https://github.com/...** -> belirtilen linkteki dosyayı kali içine indirir
+
+* **locate notes.txt** -> belirtilen dosyanın konumunu gösteriri
