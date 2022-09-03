@@ -1,5 +1,5 @@
 # Kali-Linux
-
+```
 * **pwd** -> hangi klasörde çalışıldığını gösterir
 
 * **ls** -> buldunduğu yerdeki dosyaları listeler
@@ -51,3 +51,4 @@
 * **git clone https://github.com/...** -> belirtilen linkteki dosyayı kali içine indirir
 
 * **locate notes.txt** -> belirtilen dosyanın konumunu gösteriri
+```
