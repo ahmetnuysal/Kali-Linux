@@ -14,6 +14,8 @@
 
 * touch -> istenilen türde dosya oluşurur
 
+* passwd -> kali linux şifresini değiştirir
+
 * cp notes.txt /root/Documents notes.txt -> farklı bir konuma kopyalama
 
 * cp notes.txt test/notes.txt -> notes dosyasını bulunduğu klasör içine kopyalar
