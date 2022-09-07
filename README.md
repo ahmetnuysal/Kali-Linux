@@ -55,4 +55,6 @@
 * locate notes.txt -> belirtilen dosyanın konumunu gösteriri
 
 * ... | grep xx -> belirtilen kelime/sayı içeren şeyleri filtreleyip listeler
+
+* setxkbmap tr -> türkçe klavyeyi etkinleştirir
 ```
