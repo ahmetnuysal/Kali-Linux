@@ -18,7 +18,7 @@
 
 * cp notes.txt /root/Documents notes.txt -> farklı bir konuma kopyalama
 
-* cp notes.txt test/notes.txt -> notes dosyasını bulunduğu klasör içine kopyalar
+* cp notes.txt notes.txt -> notes dosyasını bulunduğu klasör içine kopyalar
 
 * mv notes.txt /root/Music -> dosyayı belirtilen konuma taşır (/root/Music)
 
